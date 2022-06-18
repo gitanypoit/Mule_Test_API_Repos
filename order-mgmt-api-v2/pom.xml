@@ -36,7 +36,7 @@
 						</sharedLibrary>
 					</sharedLibraries>
 					<RT-verstion>4.4.0</RT-verstion>
-					<Env>4.4.0</Env>
+					<Env>prod</Env>
 
 				</configuration>
 			</plugin>
